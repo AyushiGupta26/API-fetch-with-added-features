@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424309109724",
+    "firebase_url": "https://digitaltechnologiestest.firebaseio.com",
+    "project_id": "digitaltechnologiestest",
+    "storage_bucket": "digitaltechnologiestest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424309109724:android:9c03c330c8b171d2765519",
+        "android_client_info": {
+          "package_name": "com.example.digitaltechnologiesassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424309109724-t0ojqia9nflevtamltrcg55k1aklb90h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzgwj9BmgPDHBvQ5lVUyaEVXuuuFU9AZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424309109724-t0ojqia9nflevtamltrcg55k1aklb90h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

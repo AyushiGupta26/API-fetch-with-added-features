@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DigitalTechnologiesAssignment</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="cartList">Cart List</string>
+    <string name="selectedCake">Selected Cake</string>
+    <string name="move">Move</string>
+    <string name="delete">Delete</string>
+    <string name="cakeList">Cake List</string>
+    <string name="goToCart">Go To Cart</string>
+</resources>
